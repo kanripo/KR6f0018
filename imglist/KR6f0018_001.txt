@@ -1,0 +1,4 @@
+001-0043a04	TKD 36-0965b	buddhist/K-koreana/36-tif/0900-0999/36_0965_B.TIF
+001-0043a22	TKD 36-0965c	buddhist/K-koreana/36-tif/0900-0999/36_0965_C.TIF
+001-0043a00	T 001-0043a	buddhist/T-taisho/T12/00/T12-0043.png
+001-0043b00	T 001-0043b	buddhist/T-taisho/T12/00/T12-0043.png
