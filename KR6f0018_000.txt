@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說三十五佛名禮懺文
+#+DATE: 2015-08-30 20:01:01.054352
+#+PROPERTY: JUAN 0
