@@ -1,25 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:00.861629
+#+DATE: 2015-08-30 20:01:02.053380
 #+TITLE: 佛說三十五佛名禮懺文
 #+PROPERTY: CBETA_ID T12n0326
 #+PROPERTY: ID KR6f0018
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 326
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0018_T_000-0042c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0018_T_001-0042c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.326[Nos.310(24),325]¶
-
- 佛說三十五佛名禮懺文一卷(出烏波離¶
+No. 326 [Nos. 310(24), 325]¶
+佛說三十五佛名禮懺文一卷(出烏波離¶
 所問經)¶
 ¶
-開府儀同三司特進試鴻臚卿¶
-肅國公食邑三千戶賜紫贈司空¶
-諡大鑒正號大廣智大興善寺¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺¶
 三藏沙門不空奉　詔譯¶
 
 「娜謨釋迦牟尼佛、娜謨金剛堅固能摧佛、¶
